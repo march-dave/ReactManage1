@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>948944497601-ca3amob0qbg6sdnjo98e5ou4tkqf7q5l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.948944497601-ca3amob0qbg6sdnjo98e5ou4tkqf7q5l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGA5GQ-av-pp2_hHp4Stbk1IqDDMKLrKY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>948944497601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Project</string>
+	<key>PROJECT_ID</key>
+	<string>igottago-71c7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>igottago-71c7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:948944497601:ios:d903c4045b1d626e</string>
+	<key>DATABASE_URL</key>
+	<string>https://igottago-71c7d.firebaseio.com</string>
+</dict>
+</plist>
